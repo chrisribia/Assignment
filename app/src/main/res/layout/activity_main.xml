@@ -17,7 +17,7 @@
     <TextView
         android:id="@+id/heading"
         android:layout_width="match_parent"
-        android:text="Mombasa Beach"
+        android:text="Name : Wairumu Kamum kahiha"
         android:textAlignment="center"
         android:textSize="30dp"
         android:textColor="@color/colorAccent"
@@ -29,7 +29,7 @@
         android:textAlignment="center"
         android:textSize="25dp"
         android:textColor="@color/colorPrimaryDark"
-        android:text="Visit the Best Beachesin Mombasa, Kenya"
+        android:text="Tel : 0795788658 "
         android:layout_height="wrap_content"/>
     <Button
         android:layout_marginTop="10dp"
